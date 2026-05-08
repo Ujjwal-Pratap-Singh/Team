@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Indian Crop NPK Dashboard",
+  "description": "Advanced dashboard for monitoring Indian crop NPK requirements, comparing soil data from ThingSpeak, and calculating fertilizer needs.",
+  "requestFramePermissions": []
+}
